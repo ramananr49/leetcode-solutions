@@ -33,7 +33,7 @@ Each problem is stored as a **single file per language**, making it easy to comp
 | TypeScript | ✅ |
 
 ## 📈 Progress
-- Easy: 0
+- Easy: 2
 - Medium: 0
 - Hard: 0
 
@@ -41,9 +41,9 @@ Each problem is stored as a **single file per language**, making it easy to comp
 | Language     | Count |
 |-------------|-------|
 | Java        | 0    |
-| Python      | 0    |
-| JavaScript  | 0    |
-| TypeScript  | 0    |
+| Python      | 2   |
+| JavaScript  | 1   |
+| TypeScript  | 1    |
 
 ## 📌 Notes
 - Each problem may have multiple implementations
